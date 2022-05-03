@@ -1,5 +1,3 @@
-## Hi there 👋
-
 The South African Tuberculosis Vaccine Initiative is a TB clinical trial organisation with a strong TB immunology arm.
 
 We provide data and code via GitHub to reproduce our analyses, as well as small extension packages and packages implementing our own algorithms.
