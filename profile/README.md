@@ -1,14 +1,14 @@
-The South African Tuberculosis Vaccine Initiative is a TB clinical trial organisation with a strong TB immunology arm.
+  The South African Tuberculosis Vaccine Initiative is a TB clinical trial organisation with a strong TB immunology arm.
 
-We provide data and code via GitHub to reproduce our analyses, as well as small extension packages and packages implementing our own algorithms.
+  We provide data and code via GitHub to reproduce our analyses, as well as packages implementing our own algorithms and small packages extending others.
 
-We use a consistent naming system, with the following prefixes indicating the purpose of the repository:
+  We use a consistent naming system, with the following prefixes indicating the purpose of the repository:
 
-- DataTidy: processes data
-- Analysis: analyses data
-- Report: details and summarises analyses
-- Pipeline: project-specific functions
-- Utils: extend existing packages with utility functions
+  - DataTidy: processes data
+  - Analysis: analyses data
+  - Report: details and summarises analyses
+  - Pipeline: project-specific functions
+  - Utils: extend existing packages with utility functions
 
 <!--
 
