@@ -1,5 +1,5 @@
-  The South African Tuberculosis Vaccine Initiative is a TB clinical trial organisation with a strong TB immunology arm.
-
+  The South African Tuberculosis Vaccine Initiative is a clinical research centre, located within the Health Sciences Faculty at the University of Cape 
+  Town. SATVI's mission is the development of new and effective vaccination strategies against TB and has a strong TB clinical immunology laboratory.
   We provide data and code via GitHub to reproduce our analyses, as well as packages implementing our own algorithms and small packages extending others.
 
   We use a consistent naming system, with the following prefixes indicating the purpose of the repository:
