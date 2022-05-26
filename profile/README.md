@@ -9,5 +9,6 @@ We use a consistent naming system, with the following prefixes indicating the pu
 - Report: details and summarises analyses
 - Pipeline: project-specific functions
 - Utils: extend existing packages with utility functions
+- Minor: very small self-contained analyses
 
 For a directory of publicly-available projects and packages, see [here](https://github.com/SATVILab/DirectoryGitHubPublic/blob/main/Projects.md) for projects and [here](https://github.com/SATVILab/DirectoryGitHubPublic/blob/main/Packages.md) for packages.
